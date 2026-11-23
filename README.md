@@ -15,11 +15,11 @@ Depois de rodar o aplicativo **no navegador/servidor da sala**, salve capturas v
 
 Quando colocar os arquivos, descomente as imagens abaixo para elas aparecerem no GitHub:
 
-<!--
+
 ![Crachá digital e dashboard no servidor da sala](docs/screenshots/dashboard-desktop.png)
 ![Grade de projetos](docs/screenshots/projetos.png)
 ![Layout responsivo no celular](docs/screenshots/dashboard-mobile.png)
--->
+
 
 **Importante:** prints reais não acompanham este pacote porque precisam ser produzidos com a aplicação executada. Não use mockups como prova de funcionamento. Veja [instruções de capturas](docs/screenshots/README.md).
 
