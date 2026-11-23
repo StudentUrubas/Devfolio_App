@@ -161,17 +161,3 @@ git commit -m "docs: adiciona capturas da aplicacao em execucao"
 git push
 ```
 
-## 8. Entrega no Classroom
-
-Até **17/11/2026 às 23h59**, envie:
-
-1. Link público do repositório GitHub.
-2. `lib/main.dart` e **todos** os `.dart` de `lib/widgets/` (se exigido, anexe os arquivos individualmente).
-3. Print real da aplicação em execução no navegador/servidor da sala, mostrando o crachá e o dashboard, com porta **8080 ou 8081**.
-4. README atualizado com as capturas, descrição dos componentes e dados da dupla.
-
-O envio deve coincidir com a apresentação presencial de **17/11/2026**.
-
----
-
-**Projeto didático:** interface pronta para personalização e testes locais. Nenhuma conexão real com analytics, backend ou GitHub está implícita.
